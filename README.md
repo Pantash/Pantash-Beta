@@ -2,8 +2,8 @@
   <img src="https://via.placeholder.com/150" alt="Pantash Logo" width="150">  
   <h1>**Pantash**</h1>  
   <p><i>OpenSource Dashboard Builder for Complex Data Visualization</i></p> 
-    [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC BY-NC-ND 4.0-blue)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-    [![Made with Heart](https://img.shields.io/badge/Made_with-%F0%9F%A4%8D-green)
+  <img alt="Static Badge" src="https://img.shields.io/badge/license-CC_BY_NC_ND_4.0-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Made_With-%E2%9D%A4%EF%B8%8F-orange">
 </div>  
 
 ---
