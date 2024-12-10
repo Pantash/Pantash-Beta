@@ -1,7 +1,9 @@
 <div align="center">  
   <img src="https://via.placeholder.com/150" alt="Pantash Logo" width="150">  
   <h1>**Pantash**</h1>  
-  <p><i>OpenSource Dashboard Builder for Complex Data Visualization</i></p>  
+  <p><i>OpenSource Dashboard Builder for Complex Data Visualization</i></p> 
+    [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC BY-NC-ND 4.0-blue)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+    [![Made with Heart](https://img.shields.io/badge/Made_with-%F0%9F%A4%8D-green)
 </div>  
 
 ---
@@ -86,8 +88,8 @@ Special thanks to the OpenSource community for their unwavering support and inno
 
 ## 📞 **Contact**  
 - **Website**: [Coming Soon]  
-- **GitHub Issues**: [Report a Bug](https://github.com/username/pantash/issues)  
-- **Email**: [support@pantash.com](mailto:support@pantash.com)  
+- **GitHub Issues**: [Report a Bug](https://github.com/pantash/Pantash-Beta/issues)  
+- **Email**: [support@pantash.com](mailto:pantash.dashboard@gmail.com)  
 
 ---
 
