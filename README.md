@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://github.com/Pantash/Pantash-Beta/blob/main/default.png" alt="Pantash Logo" width="150">  
+  <img src="https://github.com/Pantash/Pantash-Beta/blob/main/assets/logo/default.png" alt="Pantash Logo" width="150">  
   <h1><strong>Pantash</strong></h1>  
   <p><i>OpenSource Dashboard Builder for Complex Data Visualization</i></p> 
   <img alt="Static Badge" src="https://img.shields.io/badge/license-CC_BY_NC_ND_4.0-blue">
