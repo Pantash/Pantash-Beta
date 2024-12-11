@@ -33,8 +33,8 @@ To get started, ensure you have:
 ### 🛠️ **Installation**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/username/pantash.git
-   cd pantash
+   git clonehttps://github.com/Pantash/Pantash-Beta.git
+   cd Pantash-Beta
    ```  
 2. Install dependencies:  
    ```bash
